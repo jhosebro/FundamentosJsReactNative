@@ -6,7 +6,7 @@ html {
 body {
     font-size: 1.6rem;
     font-family: 'Lato', sans-serif;
-    background-color: #1E293B;
+    background-color: #5A643F;
 }
 *, *:before, *:after {
     box-sizing: inherit;
@@ -18,7 +18,7 @@ header {
 
 header h1 {
     text-align: center;
-    color: #2563EB;
+    color: #E2E8F0;
     font-size: 6rem;
 }
 header p {
@@ -28,7 +28,7 @@ header p {
 }
 header p a {
     text-decoration: none;
-    color: #3B82F6;
+    color: #E2E8F0;
 }
 
 .DOM {
@@ -46,7 +46,7 @@ header p a {
     margin-right: 10px;
 }
 .DOM p {
-    color: #2563EB;
+    color: #E2E8F0;
     font-size: 20px;
 }
 
